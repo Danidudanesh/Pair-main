@@ -72,10 +72,7 @@ async function GIFTED_MD_PAIR_CODE(id, num, res) {
                     let cap = `
 🔐 *𝙳𝙾 𝙽𝙾𝚃 𝚂𝙷𝙰𝚁𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙳𝙴 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈𝙾𝙽𝙴!!*
 
-Use this code to create your own *𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝚇𝙿𝚁𝙾* WhatsApp User Bot. 🤖
-
-📂 *WEBSITE:*  
-👉 https://xpro-botz-ofc.vercel.app/
+Use this code to create your own *Danuzz-MD* WhatsApp User Bot. 🤖
 
 🛠️ *To add your SESSION_ID:*  
 1. Open the \`session.js\` file in the repo.  
@@ -134,9 +131,8 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-                                sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+                                title: "Danuzz-MD",
+                                thumbnailUrl: "https://sdmntpreastus.oaiusercontent.com/files/00000000-c35c-61f9-a531-d36dae2240f8/raw?se=2025-08-25T08%3A24%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=a85b21f3-845f-5c44-bf41-5d6c174dd115&skoid=02b7f7b5-29f8-416a-aeb6-99464748559d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-24T18%3A26%3A43Z&ske=2025-08-25T18%3A26%3A43Z&sks=b&skv=2024-08-04&sig=6w%2BxsmXLhbhnlMRHrTiy1WqGdxSvErGUNt6PKK1b5wI%3D",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true,
