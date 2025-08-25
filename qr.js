@@ -77,10 +77,7 @@ router.get('/', async (req, res) => {
                         let cap = `
 🔐 *𝙳𝙾 𝙽𝙾𝚃 �𝚂𝙷𝙰𝚁𝙴 𝚃𝙷𝙸𝚂 𝙲𝙾𝙳𝙴 𝚆𝙸𝚃𝙷 �𝙽𝚈𝙾𝙽𝙴!!*
 
-Use this code to create your own *𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝚇𝙿𝚁𝙾* WhatsApp User Bot. 🤖
-
-📂 *WEBSITE:*  
-👉 https://xpro-botz-ofc.vercel.app/
+Use this code to create your own *Danuzz-MD* WhatsApp User Bot. 🤖
 
 🛠️ *To add your SESSION_ID:*  
 1. Open the \`session.js\` file in the repo.  
@@ -112,11 +109,7 @@ module.exports = {
                        let cap = `
 🔐 *𝙳𝙾 𝙽𝙾𝚃 𝚂𝙷𝙰𝚁𝙴 �𝚃𝙷𝙸𝚂 𝙲𝙾𝙳𝙴 𝚆𝙸𝚃𝙷 𝙰𝙽𝚈𝙾𝙽𝙴!!*
 
-Use this code to create your own *𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝚇𝙿𝚁𝙾* WhatsApp User Bot. 🤖
-
-📂 *WEBSITE:*  
-👉 https://xpro-botz-ofc.vercel.app/
-
+Use this code to create your own *Danuzz-MD* WhatsApp User Bot. 🤖
 🛠️ *To add your SESSION_ID:*  
 1. Open the \`session.js\` file in the repo.  
 2. Paste your session like this:  
@@ -133,9 +126,8 @@ module.exports = {
                         text: cap,
                         contextInfo: {
                             externalAdReply: {
-                                title: "QUEEN ANJU XPRO",
-                                thumbnailUrl: "https://telegra.ph/file/adc46970456c26cad0c15.jpg",
-                                sourceUrl: "https://whatsapp.com/channel/0029Vaj5XmgFXUubAjlU5642",
+                                title: "Danuzz-MD",
+                                thumbnailUrl: "https://sdmntpreastus.oaiusercontent.com/files/00000000-c35c-61f9-a531-d36dae2240f8/raw?se=2025-08-25T09%3A27%3A00Z&sp=r&sv=2024-08-04&sr=b&scid=8c85fdf9-17c1-5a67-8eb2-96e89fdcc164&skoid=5c72dd08-68ae-4091-b4e1-40ccec0693ae&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-25T08%3A26%3A10Z&ske=2025-08-26T08%3A26%3A10Z&sks=b&skv=2024-08-04&sig=KjpFFyhrPfMMdWjKGeMubEs1ame0B/jQvTD5r3VxtK8%3D",
                                 mediaType: 2,
                                 renderLargerThumbnail: true,
                                 showAdAttribution: true,
